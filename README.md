@@ -2,16 +2,16 @@
 <h3 align="center">Backend Developer | Java & Spring Boot | Scalable System Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Secure+%26+Scalable+Applications;Clean+Architecture+%7C+Performance+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL+%26+PostgreSQL;Building+Secure+%26+Scalable+Applications;Clean+Architecture+%7C+Performance+Focused" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Backend-focused developer with experience building scalable web applications using **Java, Spring Boot, Hibernate, and MySQL**.  
+Backend-focused developer experienced in building scalable web applications using **Java, Spring Boot, Hibernate, MySQL, and PostgreSQL**.
 
-Strong understanding of layered architecture, REST API development, and database design.  
+Strong understanding of layered architecture, REST API development, and relational database design.  
 Focused on writing clean, maintainable, and production-ready code.
 
 ---
@@ -22,7 +22,7 @@ Focused on writing clean, maintainable, and production-ready code.
 Attendance Management System for educational institutions.  
 Built using **Spring Boot, Hibernate, and MySQL** with role-based access control and REST API testing via Postman.
 
-**Tech Used:**  
+**Tech Stack:**  
 Spring Boot • Hibernate • MySQL • REST APIs • Postman
 
 ---
@@ -30,9 +30,9 @@ Spring Boot • Hibernate • MySQL • REST APIs • Postman
 ### 🔹 PollHubIQ  
 Election Candidate Management System with candidate CRUD operations and secure Contact Us feature.
 
-Built using **Spring MVC, JDBC, JPA, and MySQL** with a structured MVC architecture.
+Built using **Spring MVC, JDBC, JPA, and MySQL** following a structured MVC architecture.
 
-**Tech Used:**  
+**Tech Stack:**  
 Spring MVC • JDBC • JPA • MySQL • JSP • Servlet
 
 ---
@@ -50,25 +50,26 @@ Savitribai Phule Pune University
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
-Java • Python • HTML • CSS • JavaScript • SQL
+Java • Python • SQL  
 
-### ⚙️ Frameworks & Backend
+### ⚙️ Backend & Frameworks
 Spring Boot • Spring MVC • Hibernate • JPA • REST APIs  
 
+### 🌐 Frontend
+Angular • HTML • CSS • JavaScript • Bootstrap  
+
 ### 🗄️ Database
-MySQL • PostgreSQL
+MySQL • PostgreSQL  
 
 ### 🛠️ Tools
-Git • GitHub • Postman • IntelliJ IDEA • Eclipse • VS Code • PyCharm • Jira
+Git • GitHub • Postman • IntelliJ IDEA • Eclipse • VS Code • PyCharm • Jira  
 
 ---
 
 ## 📊 GitHub Analytics
 
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalrayate&theme=tokyonight&hide_border=true&ring=00C2FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalrayate&theme=tokyonight" />
 </p>
 
 ---
@@ -76,19 +77,17 @@ Git • GitHub • Postman • IntelliJ IDEA • Eclipse • VS Code • PyCharm
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalrayate&theme=tokyo-night&hide_border=true&line=00C2FF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalrayate&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Strengthening backend architecture knowledge
-- Improving database performance strategies
-- Advancing in Spring ecosystem
-- Preparing for high-level software engineering roles
-
----
+- Strengthening backend architecture knowledge  
+- Improving database performance strategies  
+- Advancing in the Spring ecosystem  
+- Preparing for high-level software engineering roles  
 
 ---
 
