@@ -59,7 +59,7 @@ Spring Boot • Spring MVC • Hibernate • JPA • REST APIs
 Angular • HTML • CSS • JavaScript • Bootstrap  
 
 ### 🗄️ Database
-MySQL • PostgreSQL  
+MySQL • PostgreSQL • MongoDB  
 
 ### 🛠️ Tools
 Git • GitHub • Postman • IntelliJ IDEA • Eclipse • VS Code • PyCharm • Jira  
