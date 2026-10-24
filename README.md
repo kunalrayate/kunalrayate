@@ -80,11 +80,10 @@ Savitribai Phule Pune University
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
-Java • Python • SQL • JavaScript
+Java  • SQL • JavaScript
 
 ### ⚙️ Backend & Frameworks
-Spring Boot • Spring MVC • Hibernate • JPA • REST APIs 
-
+Spring Boot • Spring MVC • Spring Security • JWT • Hibernate • JPA • REST APIs • JDBC
 ### 🌐 Frontend
 Angular • HTML • CSS • JavaScript • Bootstrap  
 
@@ -98,7 +97,7 @@ Spring AI • Large Language Models (LLMs) • AI Integration
 Object-Oriented Programming (OOP) • Data Structures & Algorithms (DSA) • Dynamic Programming
 
 ### 🛠️ Tools
-Git • GitHub • Postman • IntelliJ IDEA • Eclipse • VS Code • PyCharm • Jira  
+Git • GitHub • Postman • IntelliJ IDEA • Eclipse • VS Code • PyCharm • Jira  • Vercel • Render 
 
 ---
 
@@ -133,7 +132,8 @@ Git • GitHub • Postman • IntelliJ IDEA • Eclipse • VS Code • PyCharm
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/kunalrayate  
-- LinkedIn: https://linkedin.com/in/kunal-rayate  
+- LinkedIn: https://linkedin.com/in/kunal-rayate
+- Hacker Rank: https://hackerrank.com/profile/kunalrayate
 - Email: kunalrayate126@gmail.com
 
 ---
